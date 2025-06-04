@@ -1,6 +1,6 @@
 # Siemens Take-Home Challenge
 
-This repository contains the codebase and setup instructions for the Siemens Take-Home Challenge, including data preprocessing, training with LoRA, and inference examples using AI models.
+This repository contains the codebase and setup instructions for the Siemens Take-Home Challenge, including data preprocessing, training with LoRA, and inference examples using BFL FLUX.
 
 ---
 
