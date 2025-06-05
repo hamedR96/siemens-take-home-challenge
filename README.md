@@ -19,13 +19,15 @@ Follow the steps below to set up the project environment:
 git clone https://github.com/hamedR96/siemens-take-home-challenge.git
 cd siemens-take-home-challenge
 
-# Clone the AI toolkit
-git clone https://github.com/ostris/ai-toolkit.git
-cd ai-toolkit
-
 # Create and activate the conda environment
 conda create -n fluxdef python=3.10 -y
 conda activate fluxdef
+
+pip3 install -r requirements.txt
+
+# Clone the AI toolkit
+git clone https://github.com/ostris/ai-toolkit.git
+cd ai-toolkit
 
 # Install dependencies
 pip3 install --no-cache-dir torch==2.6.0 torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cu126
