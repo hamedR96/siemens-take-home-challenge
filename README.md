@@ -89,9 +89,3 @@ a LLM, or ideally a VLM that can infer both the object and type of defect to pro
 ├── zero_shot_image_generation.ipynb  # Inference demo
 └── README.md
 ```
-
-## 📬 Contact
-For questions or suggestions, please open an issue or reach out via GitHub.
-
-
-Let me know if you’d like this version customized with badges, licensing info, or linked references to datasets or models!
